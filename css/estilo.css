@@ -35,3 +35,26 @@
 
 /* NÃO ALTERE DAQUI PRA CIMA */
 /* ESCREVA SEU CÓDIGO ABAIXO */
+
+#layout{
+  justify-content: center;
+  margin-top: 2px;
+  display: flex;
+}
+.tabuleiro {
+  display: flex;
+  flex-wrap: wrap;
+  width: 320px; 
+  height: 320px; 
+}
+.quadrado {
+  width: 40px;
+  height: 40px;
+}
+.preto {
+  background-color: #000;
+}
+.branco {
+  background-color: #fff;
+}
+
