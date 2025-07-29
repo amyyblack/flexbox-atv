@@ -58,3 +58,100 @@
   background-color: #fff;
 }
 
+
+.todo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.l1{
+  background-color: #999;
+  width: 100px;
+  height: 20vh;
+}
+.l2{
+  background-color: #484848;
+  width: 100px;
+  height: 30vh;
+}
+
+.l3{
+  background-color: #999;
+  width: 100px;
+  height: 15vh;
+}
+
+.l4{
+  background-color: #484848;
+  width: 100px;
+  height: 35vh;
+}
+
+.l5{
+  background-color: #999;
+  width: 100px;
+  height: 50vh;
+}
+
+.l6{
+  background-color: #484848;
+  width: 100px;
+  height: 20vh;
+}
+
+
+
+.p0{
+  display: flex;
+  width: 1000px;
+  height: 600px;
+  background-color: #999;
+  flex-direction: column;
+}
+.p1{
+  background-color: #555;
+  flex: 1;
+}
+.p2{
+  background-color: #484848;
+  flex: 3;
+  display: flex;
+}
+.p3{
+  background-color: #2a2a2a;
+  flex: 1;
+}
+.p4{
+  background-color: #423434;
+  flex: 1;
+  
+}
+.p5{
+  background-color: #dddddd;
+  flex: 2;
+}
+.p6{
+  background-color: #999;
+  flex: 1;
+}
+.p7{
+  flex-direction: row;
+  display: flex;
+  margin:  50px 0px  ;
+}
+.o1{
+  margin: 0px 0px 16px 16px;
+  background-color: #999;
+  padding: 4px;
+}
+.o2{
+  margin: 0px 0px 16px 16px;
+  background-color: #999;
+  padding: 4px;
+}
+.o3{
+  margin: 0px 0px 16px 16px;
+  background-color: #999;
+  padding: 4px;
+}
